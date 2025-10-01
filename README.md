@@ -1,5 +1,7 @@
 # AIOT_HW1: Data Science Project
 
+**Application URL:** [https://mingchunshih-aiot-hw1-app-s07ogq.streamlit.app/](https://mingchunshih-aiot-hw1-app-s07ogq.streamlit.app/)
+
 ## 1. Project Description (Business Understanding)
 
 This project is an interactive Streamlit application for visualizing and understanding linear regression. It allows users to generate synthetic data, fit a regression model, and evaluate its performance in real-time. The project was built following the CRISP-DM methodology, from initial setup to the final deployed application.
