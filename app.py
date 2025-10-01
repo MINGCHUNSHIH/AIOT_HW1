@@ -107,4 +107,5 @@ outlier_df = pd.DataFrame({
     "Residual": residuals[outlier_indices_desc]
 })
 st.write("Top 5 data points with the largest absolute residuals:")
+outlier_df.index = np.arange(1, len(outlier_df) + 1)
 st.dataframe(outlier_df)
